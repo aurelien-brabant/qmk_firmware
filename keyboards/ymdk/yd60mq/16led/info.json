@@ -3,8 +3,9 @@
         "device_version": "0.0.2"
     },
     "rgblight": {
-        "saturation_steps": 8,
-        "brightness_steps": 8,
+        "saturation_steps": 100,
+        "brightness_steps": 100,
+	"hue_steps": 201,
         "led_count": 16,
         "animations": {
             "breathing": true,
